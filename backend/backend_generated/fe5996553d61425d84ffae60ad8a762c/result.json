@@ -1,0 +1,453 @@
+{
+  "job_id": "fe5996553d61425d84ffae60ad8a762c",
+  "filename": "DN1_164_Mumbai_Coverage_Route13_KDMC_Kalyan Division_328 Mtrs (1).pdf",
+  "total_pages": 3,
+  "document_type": "KDMC",
+  "detector_confidence": "HIGH",
+  "marathi_measurements": {},
+  "english_measurements": {
+    "organization": "Kalyan Dombivli Municipal Corporation",
+    "department": "Construction Department, Kalyan Division",
+    "document_title": "Demand Letter",
+    "document_number": "जा.क्र.कडोंमपा/काअ/बांध./कवि/164",
+    "dn_number": "164",
+    "date": "9/10/2025",
+    "recipient_name": "M/s. Bharti Airtel Ltd.",
+    "recipient_address": "7th Floor, Interface-07, New Link Road, Malad (W), Mumbai - 400 064",
+    "subject": "Regarding permission to M/s. Bharti Airtel Ltd. for laying OFC cable in Kalyan division.",
+    "work_description": "As per the proposal, a demand letter for a surcharge amount of Rs. 36,53,633/- is being issued subject to the terms and conditions of the Municipal Corporation. This is regarding the additional road digging fee for the increased road length.",
+    "references": [
+      "1) Application from M/s. Bharti Airtel Ltd. dated 18/09/2025.",
+      "2) Approval from the Hon. City Engineer dated 01/10/2025."
+    ],
+    "road_work_measurements": [
+      {
+        "sr_no": 1,
+        "road_name": "Vasant Valley Road and internal roads - Open space from D Mart Mohan Square 1 to Motiram Sape Road",
+        "division": "Kalyan",
+        "length_paverblock": 278,
+        "length_gravelling": 50,
+        "total_length": 328
+      }
+    ],
+    "total_length_paverblock": 278,
+    "total_length_gravelling": 50,
+    "grand_total_length": 328,
+    "total_road_length_text": "Total Road Length - 328 meters",
+    "table_id": "Table No.: A",
+    "various_location_cable_charges": 352857.06,
+    "ground_rent": 55600.0,
+    "supervision_charges": 52928.56,
+    "supervision_percentage": "15%",
+    "security_deposit": 35285.71,
+    "security_percentage": "10%",
+    "total_amount": "36,53,633",
+    "total_length": 50,
+    "length_unit": "Meters",
+    "title": "Terms and Conditions",
+    "line_items": [
+      {
+        "sr_no": 1,
+        "description": "For laying cable at various locations in the Kalyan division.",
+        "road_length_meters": "50",
+        "approved_rate": "5879.39",
+        "total_amount_rs": "293569.50"
+      },
+      {
+        "sr_no": 2,
+        "description": "Ground rent at Rs. 10 per meter for 20 years",
+        "road_length_meters": "50",
+        "approved_rate": "200",
+        "total_amount_rs": "10000.00"
+      },
+      {
+        "sr_no": 3,
+        "description": "Supervision charge 15% on digging fee",
+        "road_length_meters": null,
+        "approved_rate": null,
+        "total_amount_rs": "44035.43"
+      },
+      {
+        "sr_no": 4,
+        "description": "Security Deposit 10% on digging fee",
+        "road_length_meters": null,
+        "approved_rate": null,
+        "total_amount_rs": "29356.95"
+      }
+    ],
+    "total_amount_table_b_rs": "376961.88",
+    "description": "Total Surcharge Amount A and B",
+    "amount_a_rs": "3276679.33",
+    "amount_b_rs": "376961.88",
+    "total_surcharge_rs": "3653632.88",
+    "total_surcharge_rounded_rs": "3653633.00",
+    "conditions": [
+      "For road digging, inform the Police City Traffic Branch, Kalyan, and carry out the work as per their convenience.",
+      "For laying OFC cable, do not dig adjacent to the concrete road, but dig on the side of the road, leaving a minimum distance of 1 foot.",
+      "Take care to ensure that there is no obstruction to traffic and no accidents occur.",
+      "After the road digging work is completed, the excavated soil should be properly filled in the trench and arrangements should be made to lift the remaining soil, so that the road traffic will be smooth.",
+      "Before digging the road, contact the concerned department of the said road and start the work according to their consent.",
+      "Start the work only after giving prior notice to the Deputy Engineer (Construction Headquarters) before digging the road. After the actual commencement of road digging and OFC cable laying, a weekly report of the started work should be submitted to the Deputy Engineer (Construction Headquarters) with photographs. Also, if the said report is found unsatisfactory, the corporation will have the right to cancel the permission granted to you.",
+      "You will be fully responsible for any accident or loss of life while digging the said road.",
+      "You will be responsible for the repair or compensation for any damage to water pipelines / electric cables / telephone cables etc. while digging for cable laying.",
+      "It will be mandatory to install a board at the actual site showing information about the work, the name of the agency doing the excavation, and the information and telephone number of the engineer of the concerned company.",
+      "Necessary safety measures should be taken while carrying out the excavation work. For example, installing safety devices, installing barricades, putting up a nameplate regarding the road excavation, and putting up a nameplate showing the company's name. In this regard, if any complaint is received, it should be resolved immediately, otherwise, please note that punitive action will be taken against you.",
+      "After the road digging work is actually completed, a re-survey will be conducted by the Deputy Engineer (Construction Headquarters)..."
+    ],
+    "total_amount_in_words": "Thirty-six lakh fifty-three thousand six hundred thirty-three only",
+    "signer_designation": "Executive Engineer (Construction/Kalyan Division)",
+    "copy_to": "For information to the Hon. City Engineer, Kalyan Dombivli Municipal Corporation, Kalyan."
+  },
+  "table_rows": [
+    {
+      "sr_no": 1,
+      "description": "कल्याण विभागातील विविध ठिकाणी केबल टाकणेकरिता.",
+      "length_meters": "२७८ मीटर",
+      "rate": "१२६९.२७",
+      "amount": "२५७६८५७.०६"
+    },
+    {
+      "sr_no": 2,
+      "description": "भुईभाडे १० रु. प्रति मीटर असे २० वर्षाकरिता",
+      "length_meters": "२७८ मीटर",
+      "rate": "२००",
+      "amount": "५५६००.००"
+    },
+    {
+      "sr_no": 3,
+      "description": "सुपरविजन चार्ज खोदाई शुल्कावर १५%",
+      "length_meters": "--",
+      "rate": "--",
+      "amount": "३८६५२८.५६"
+    },
+    {
+      "sr_no": 4,
+      "description": "सिक्युरिटी डिपॉझिट खोदाई शुल्कावर १०%",
+      "length_meters": "--",
+      "rate": "--",
+      "amount": "२५७६८५.७१"
+    },
+    {
+      "sr_no": 1,
+      "description": "वसंतव्हॅली रोड आणि अंतर्गत रस्ते – डी मार्ट मोहन स्क्वेअर १ ते मोतीराम सापे रोड येथील मोकळी जागा",
+      "length_meters": 328,
+      "rate": null,
+      "amount": null
+    },
+    {
+      "sr_no": null,
+      "description": "एकूण",
+      "length_meters": 328,
+      "rate": null,
+      "amount": null
+    },
+    {
+      "sr_no": 1,
+      "description": "कल्याण विभागातील विविध ठिकाणी केबल टाकणेकरिता.",
+      "length_meters": "५० मीटर",
+      "rate": "५८७१.३९",
+      "amount": "२९३५६९.५०"
+    },
+    {
+      "sr_no": 2,
+      "description": "भुईभाडे १० रु. प्रति मीटर असे २० वर्षाकरिता",
+      "length_meters": "५० मीटर",
+      "rate": "२००",
+      "amount": "१००००"
+    },
+    {
+      "sr_no": 3,
+      "description": "सुपरविजन चार्ज खोदाई शुल्कावर १५%",
+      "length_meters": "---",
+      "rate": "---",
+      "amount": "४४०३५.४३"
+    },
+    {
+      "sr_no": 4,
+      "description": "सिक्युरिटी डिपॉझीट खोदाई शुल्कावर १०%",
+      "length_meters": "---",
+      "rate": "---",
+      "amount": "२९३५६.९५"
+    },
+    {
+      "sr_no": null,
+      "description": null,
+      "length_meters": "एकूण",
+      "rate": null,
+      "amount": "३७६९६१.८८"
+    }
+  ],
+  "summary": {},
+  "extracted_measurements": {
+    "organization": "Kalyan Dombivli Municipal Corporation",
+    "department": "Construction Department, Kalyan Division",
+    "document_title": "Demand Letter",
+    "document_number": "जा.क्र.कडोंमपा/काअ/बांध./कवि/164",
+    "dn_number": "164",
+    "date": "9/10/2025",
+    "recipient_name": "M/s. Bharti Airtel Ltd.",
+    "recipient_address": "7th Floor, Interface-07, New Link Road, Malad (W), Mumbai - 400 064",
+    "subject": "Regarding permission to M/s. Bharti Airtel Ltd. for laying OFC cable in Kalyan division.",
+    "work_description": "As per the proposal, a demand letter for a surcharge amount of Rs. 36,53,633/- is being issued subject to the terms and conditions of the Municipal Corporation. This is regarding the additional road digging fee for the increased road length.",
+    "references": [
+      "1) Application from M/s. Bharti Airtel Ltd. dated 18/09/2025.",
+      "2) Approval from the Hon. City Engineer dated 01/10/2025."
+    ],
+    "road_work_measurements": [
+      {
+        "sr_no": 1,
+        "road_name": "Vasant Valley Road and internal roads - Open space from D Mart Mohan Square 1 to Motiram Sape Road",
+        "division": "Kalyan",
+        "length_paverblock": 278,
+        "length_gravelling": 50,
+        "total_length": 328
+      }
+    ],
+    "total_length_paverblock": 278,
+    "total_length_gravelling": 50,
+    "grand_total_length": 328,
+    "total_road_length_text": "Total Road Length - 328 meters",
+    "table_id": "Table No.: A",
+    "various_location_cable_charges": 352857.06,
+    "ground_rent": 55600.0,
+    "supervision_charges": 52928.56,
+    "supervision_percentage": "15%",
+    "security_deposit": 35285.71,
+    "security_percentage": "10%",
+    "total_amount": "36,53,633",
+    "total_length": 50,
+    "length_unit": "Meters",
+    "title": "Terms and Conditions",
+    "line_items": [
+      {
+        "sr_no": 1,
+        "description": "For laying cable at various locations in the Kalyan division.",
+        "road_length_meters": "50",
+        "approved_rate": "5879.39",
+        "total_amount_rs": "293569.50"
+      },
+      {
+        "sr_no": 2,
+        "description": "Ground rent at Rs. 10 per meter for 20 years",
+        "road_length_meters": "50",
+        "approved_rate": "200",
+        "total_amount_rs": "10000.00"
+      },
+      {
+        "sr_no": 3,
+        "description": "Supervision charge 15% on digging fee",
+        "road_length_meters": null,
+        "approved_rate": null,
+        "total_amount_rs": "44035.43"
+      },
+      {
+        "sr_no": 4,
+        "description": "Security Deposit 10% on digging fee",
+        "road_length_meters": null,
+        "approved_rate": null,
+        "total_amount_rs": "29356.95"
+      }
+    ],
+    "total_amount_table_b_rs": "376961.88",
+    "description": "Total Surcharge Amount A and B",
+    "amount_a_rs": "3276679.33",
+    "amount_b_rs": "376961.88",
+    "total_surcharge_rs": "3653632.88",
+    "total_surcharge_rounded_rs": "3653633.00",
+    "conditions": [
+      "For road digging, inform the Police City Traffic Branch, Kalyan, and carry out the work as per their convenience.",
+      "For laying OFC cable, do not dig adjacent to the concrete road, but dig on the side of the road, leaving a minimum distance of 1 foot.",
+      "Take care to ensure that there is no obstruction to traffic and no accidents occur.",
+      "After the road digging work is completed, the excavated soil should be properly filled in the trench and arrangements should be made to lift the remaining soil, so that the road traffic will be smooth.",
+      "Before digging the road, contact the concerned department of the said road and start the work according to their consent.",
+      "Start the work only after giving prior notice to the Deputy Engineer (Construction Headquarters) before digging the road. After the actual commencement of road digging and OFC cable laying, a weekly report of the started work should be submitted to the Deputy Engineer (Construction Headquarters) with photographs. Also, if the said report is found unsatisfactory, the corporation will have the right to cancel the permission granted to you.",
+      "You will be fully responsible for any accident or loss of life while digging the said road.",
+      "You will be responsible for the repair or compensation for any damage to water pipelines / electric cables / telephone cables etc. while digging for cable laying.",
+      "It will be mandatory to install a board at the actual site showing information about the work, the name of the agency doing the excavation, and the information and telephone number of the engineer of the concerned company.",
+      "Necessary safety measures should be taken while carrying out the excavation work. For example, installing safety devices, installing barricades, putting up a nameplate regarding the road excavation, and putting up a nameplate showing the company's name. In this regard, if any complaint is received, it should be resolved immediately, otherwise, please note that punitive action will be taken against you.",
+      "After the road digging work is actually completed, a re-survey will be conducted by the Deputy Engineer (Construction Headquarters)..."
+    ],
+    "total_amount_in_words": "Thirty-six lakh fifty-three thousand six hundred thirty-three only",
+    "signer_designation": "Executive Engineer (Construction/Kalyan Division)",
+    "copy_to": "For information to the Hon. City Engineer, Kalyan Dombivli Municipal Corporation, Kalyan."
+  },
+  "page_wise_measurements": [
+    {
+      "page_number": 1,
+      "marathi": {},
+      "english": {
+        "organization": "Kalyan Dombivli Municipal Corporation",
+        "department": "Construction Department, Kalyan Division",
+        "document_title": "Demand Letter",
+        "document_number": "जा.क्र.कडोंमपा/काअ/बांध./कवि/164",
+        "dn_number": "164",
+        "date": "9/10/2025",
+        "recipient_name": "M/s. Bharti Airtel Ltd.",
+        "recipient_address": "7th Floor, Interface-07, New Link Road, Malad (W), Mumbai - 400 064",
+        "subject": "Regarding permission to M/s. Bharti Airtel Ltd. for laying OFC cable in Kalyan division.",
+        "work_description": "As per the proposal, a demand letter for a surcharge amount of Rs. 36,53,633/- is being issued subject to the terms and conditions of the Municipal Corporation. This is regarding the additional road digging fee for the increased road length.",
+        "references": [
+          "1) Application from M/s. Bharti Airtel Ltd. dated 18/09/2025.",
+          "2) Approval from the Hon. City Engineer dated 01/10/2025."
+        ],
+        "road_work_measurements": [
+          {
+            "sr_no": 1,
+            "road_name": "Vasant Valley Road and internal roads - Open space from D Mart Mohan Square 1 to Motiram Sape Road",
+            "division": "Kalyan",
+            "length_paverblock": 278,
+            "length_gravelling": 50,
+            "total_length": 328
+          }
+        ],
+        "total_length_paverblock": 278,
+        "total_length_gravelling": 50,
+        "grand_total_length": 328,
+        "total_road_length_text": "Total Road Length - 328 meters",
+        "table_id": "Table No.: A",
+        "various_location_cable_charges": 352857.06,
+        "ground_rent": 55600.0,
+        "supervision_charges": 52928.56,
+        "supervision_percentage": "15%",
+        "security_deposit": 35285.71,
+        "security_percentage": "10%",
+        "total_amount": "36,53,633",
+        "total_length": 50,
+        "length_unit": "Meters",
+        "title": "Terms and Conditions",
+        "line_items": [
+          {
+            "sr_no": 1,
+            "description": "For laying cable at various locations in the Kalyan division.",
+            "road_length_meters": "50",
+            "approved_rate": "5879.39",
+            "total_amount_rs": "293569.50"
+          },
+          {
+            "sr_no": 2,
+            "description": "Ground rent at Rs. 10 per meter for 20 years",
+            "road_length_meters": "50",
+            "approved_rate": "200",
+            "total_amount_rs": "10000.00"
+          },
+          {
+            "sr_no": 3,
+            "description": "Supervision charge 15% on digging fee",
+            "road_length_meters": null,
+            "approved_rate": null,
+            "total_amount_rs": "44035.43"
+          },
+          {
+            "sr_no": 4,
+            "description": "Security Deposit 10% on digging fee",
+            "road_length_meters": null,
+            "approved_rate": null,
+            "total_amount_rs": "29356.95"
+          }
+        ],
+        "total_amount_table_b_rs": "376961.88",
+        "description": "Total Surcharge Amount A and B",
+        "amount_a_rs": "3276679.33",
+        "amount_b_rs": "376961.88",
+        "total_surcharge_rs": "3653632.88",
+        "total_surcharge_rounded_rs": "3653633.00",
+        "conditions": [
+          "For road digging, inform the Police City Traffic Branch, Kalyan, and carry out the work as per their convenience.",
+          "For laying OFC cable, do not dig adjacent to the concrete road, but dig on the side of the road, leaving a minimum distance of 1 foot.",
+          "Take care to ensure that there is no obstruction to traffic and no accidents occur.",
+          "After the road digging work is completed, the excavated soil should be properly filled in the trench and arrangements should be made to lift the remaining soil, so that the road traffic will be smooth.",
+          "Before digging the road, contact the concerned department of the said road and start the work according to their consent.",
+          "Start the work only after giving prior notice to the Deputy Engineer (Construction Headquarters) before digging the road. After the actual commencement of road digging and OFC cable laying, a weekly report of the started work should be submitted to the Deputy Engineer (Construction Headquarters) with photographs. Also, if the said report is found unsatisfactory, the corporation will have the right to cancel the permission granted to you.",
+          "You will be fully responsible for any accident or loss of life while digging the said road.",
+          "You will be responsible for the repair or compensation for any damage to water pipelines / electric cables / telephone cables etc. while digging for cable laying.",
+          "It will be mandatory to install a board at the actual site showing information about the work, the name of the agency doing the excavation, and the information and telephone number of the engineer of the concerned company.",
+          "Necessary safety measures should be taken while carrying out the excavation work. For example, installing safety devices, installing barricades, putting up a nameplate regarding the road excavation, and putting up a nameplate showing the company's name. In this regard, if any complaint is received, it should be resolved immediately, otherwise, please note that punitive action will be taken against you.",
+          "After the road digging work is actually completed, a re-survey will be conducted by the Deputy Engineer (Construction Headquarters)..."
+        ],
+        "total_amount_in_words": "Thirty-six lakh fifty-three thousand six hundred thirty-three only",
+        "signer_designation": "Executive Engineer (Construction/Kalyan Division)",
+        "copy_to": "For information to the Hon. City Engineer, Kalyan Dombivli Municipal Corporation, Kalyan."
+      },
+      "table_rows": [
+        {
+          "sr_no": 1,
+          "description": "कल्याण विभागातील विविध ठिकाणी केबल टाकणेकरिता.",
+          "length_meters": "२७८ मीटर",
+          "rate": "१२६९.२७",
+          "amount": "२५७६८५७.०६"
+        },
+        {
+          "sr_no": 2,
+          "description": "भुईभाडे १० रु. प्रति मीटर असे २० वर्षाकरिता",
+          "length_meters": "२७८ मीटर",
+          "rate": "२००",
+          "amount": "५५६००.००"
+        },
+        {
+          "sr_no": 3,
+          "description": "सुपरविजन चार्ज खोदाई शुल्कावर १५%",
+          "length_meters": "--",
+          "rate": "--",
+          "amount": "३८६५२८.५६"
+        },
+        {
+          "sr_no": 4,
+          "description": "सिक्युरिटी डिपॉझिट खोदाई शुल्कावर १०%",
+          "length_meters": "--",
+          "rate": "--",
+          "amount": "२५७६८५.७१"
+        },
+        {
+          "sr_no": 1,
+          "description": "वसंतव्हॅली रोड आणि अंतर्गत रस्ते – डी मार्ट मोहन स्क्वेअर १ ते मोतीराम सापे रोड येथील मोकळी जागा",
+          "length_meters": 328,
+          "rate": null,
+          "amount": null
+        },
+        {
+          "sr_no": null,
+          "description": "एकूण",
+          "length_meters": 328,
+          "rate": null,
+          "amount": null
+        },
+        {
+          "sr_no": 1,
+          "description": "कल्याण विभागातील विविध ठिकाणी केबल टाकणेकरिता.",
+          "length_meters": "५० मीटर",
+          "rate": "५८७१.३९",
+          "amount": "२९३५६९.५०"
+        },
+        {
+          "sr_no": 2,
+          "description": "भुईभाडे १० रु. प्रति मीटर असे २० वर्षाकरिता",
+          "length_meters": "५० मीटर",
+          "rate": "२००",
+          "amount": "१००००"
+        },
+        {
+          "sr_no": 3,
+          "description": "सुपरविजन चार्ज खोदाई शुल्कावर १५%",
+          "length_meters": "---",
+          "rate": "---",
+          "amount": "४४०३५.४३"
+        },
+        {
+          "sr_no": 4,
+          "description": "सिक्युरिटी डिपॉझीट खोदाई शुल्कावर १०%",
+          "length_meters": "---",
+          "rate": "---",
+          "amount": "२९३५६.९५"
+        },
+        {
+          "sr_no": null,
+          "description": null,
+          "length_meters": "एकूण",
+          "rate": null,
+          "amount": "३७६९६१.८८"
+        }
+      ],
+      "summary": {}
+    }
+  ]
+}

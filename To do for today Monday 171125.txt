@@ -1,0 +1,24 @@
+To do for today Monday 17/11/25
+--Work on extraction of the text from the pdf of nmmc all fields and 
+second pdf extraction
+--Discuss on that
+To do for 18/11/25
+--Work on the improvements of the extraction (pd)
+--learn how in the trenching extractor the parsing is working and how are the values entered in the fields.
+--later how are they going to the db(Supabase).
+--later try working on the different charges mapping to their kvps
+--learn how to add a column in the frontend and how to add that new column eg(Environment charges) as a new field/column in supabase.
+
+
+-------
+ip1_co_built is hdd/open trench?
+-------------------------------------
+AD,AT,AU
+
+y AXIS- COST from 0 to 60 crore
+X= 0 to 60 km
+1 projection on E column
+1 projection on G column to be plot against X(Actual Cummulative Non refundable)
+
+
+

@@ -1,0 +1,58 @@
+{
+  "job_id": "b5bec39658de4c3e9116c33c9d5d4c2e",
+  "filename": "NMMC_812.pdf",
+  "total_pages": 1,
+  "marathi_measurements": {},
+  "english_measurements": {
+    "document_number": "नमुंमपा/परि-1/",
+    "date": "14/7/25",
+    "amount": "10",
+    "मवी_मुबई": 400,
+    "दूरध्वनी_क्र": 757,
+    "fax_no": 757,
+    "dn_number": 1,
+    "इंटरफेस": 7,
+    "": 997212,
+    "परिमंडळ": 1
+  },
+  "table_rows": [
+    {},
+    {}
+  ],
+  "summary": {},
+  "extracted_measurements": {
+    "document_number": "नमुंमपा/परि-1/",
+    "date": "14/7/25",
+    "amount": "10",
+    "मवी_मुबई": 400,
+    "दूरध्वनी_क्र": 757,
+    "fax_no": 757,
+    "dn_number": 1,
+    "इंटरफेस": 7,
+    "": 997212,
+    "परिमंडळ": 1
+  },
+  "page_wise_measurements": [
+    {
+      "page_number": 1,
+      "marathi": {},
+      "english": {
+        "document_number": "नमुंमपा/परि-1/",
+        "date": "14/7/25",
+        "amount": "10",
+        "मवी_मुबई": 400,
+        "दूरध्वनी_क्र": 757,
+        "fax_no": 757,
+        "dn_number": 1,
+        "इंटरफेस": 7,
+        "": 997212,
+        "परिमंडळ": 1
+      },
+      "table_rows": [
+        {},
+        {}
+      ],
+      "summary": {}
+    }
+  ]
+}

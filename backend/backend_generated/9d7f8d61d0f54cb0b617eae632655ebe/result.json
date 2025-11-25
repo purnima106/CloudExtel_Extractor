@@ -1,0 +1,534 @@
+{
+  "job_id": "9d7f8d61d0f54cb0b617eae632655ebe",
+  "filename": "NMMC_812.pdf",
+  "total_pages": 1,
+  "marathi_measurements": {},
+  "english_measurements": {
+    "organization_marathi": "नवी मुंबई महानगरपालिका",
+    "organization": "नवी मुंबई महानगरपालिका",
+    "address_marathi": "पहिला माळा, बेलापूर भवन, सी.बी.डी., नवी मुंबई - ४०० ६१४.",
+    "address": "1ST. FLOOR, BELAPUR BHAVAN, C.B.D., NAVI MUMBAI - 400 614.",
+    "phone_numbers": [
+      "757 17 33",
+      "757 17 28",
+      "757 40 22"
+    ],
+    "fax_no": "757 37 85",
+    "document_number": "नमुंमपा/परि-1/टे.क्र.-10/1182/2025",
+    "dn_number": "10/1182/2025",
+    "date": "3/10/2025",
+    "recipient_name": "मे. भारती एअरटेल लि.",
+    "recipient_address": "सातवा मजला, इंटरफेस-7 न्यु लिंक रोड मलाड (प)",
+    "subject": "रस्ता खोदकाम शुल्क भरणा, करणेबाबत.",
+    "references": [
+      {
+        "id": 1,
+        "text": "आपल्या संस्थेचे पत्र दि.14/7/25 रोजीचे पत्र."
+      },
+      {
+        "id": 2,
+        "text": "कार्यकारी अभियंता, तुर्भे यांनी दि 23/9/25 रोजी सादर केलेले अंदाजपत्रक."
+      }
+    ],
+    "body_summary": "मे. भारती एअरटेल लिमिटेड यांना नेरुळ विभागात साऊथ सेंट्रल रोड ( HP Petrol pump जवळ) ते मनीष एक्सपोर्ट पर्यंत असे एकूण 812 मी. ओपन ट्रेचिंग पध्दतीने खोदकाम प्रस्तावित केलेले आहे. त्यानुसार कार्यकारी अभियंता यांनी डांबरी रस्त्याच्या खोदकामाचे अंदाजपत्रक सादर केलेले आहे.",
+    "work_type": "HDD/ ओपन ट्रेंच",
+    "project_length_m": 812,
+    "excavation_charges_table": [
+      {
+        "sr_no": 1,
+        "surface_type": "नविन डांबरी पृष्ठभाग",
+        "number_of_pits": 8.0,
+        "length_m": 1.5,
+        "width_m": 1.5,
+        "area_sqm": 18.0,
+        "rate_per_sqm": 9600.0,
+        "amount_rs": 172800.0
+      },
+      {
+        "sr_no": null,
+        "surface_type": "डक्ट मधुन केबल",
+        "number_of_pits": 0.0,
+        "length_m": 0.0,
+        "width_m": 0.0,
+        "area_sqm": 0.0,
+        "rate_per_sqm": 9600.0,
+        "amount_rs": 0.0
+      },
+      {
+        "sr_no": null,
+        "surface_type": "डक्ट ची संख्या 3",
+        "number_of_pits": 0.0,
+        "length_m": 0.0,
+        "width_m": 0.0,
+        "area_sqm": 812.0,
+        "rate_per_sqm": 0.0,
+        "amount_rs": 2436.0
+      },
+      {
+        "sr_no": 1,
+        "surface_type": "नविन डांबरी पृष्ठभाग (ओपन ट्रेंच पध्दत)",
+        "number_of_pits": 0.0,
+        "length_m": 0.0,
+        "width_m": 0.0,
+        "area_sqm": 627.0,
+        "rate_per_sqm": 9600.0,
+        "amount_rs": 6019200.0
+      }
+    ],
+    "total_area_sqm": 812.0,
+    "description": "रु 10/- प्रति वर्ष प्रति मीटर या प्रमाणे 20 वर्षासाठी एकरक्कमी रु200/- प्रती मीटर प्रमाणे भुईभाडे",
+    "amount": 12386436,
+    "supervision_charges": 1857965,
+    "security_deposit": 1424440,
+    "ground_rent": 162400,
+    "total_amount": 15831241.0,
+    "reinstatement_charges_in_text": "1,23,86,436/-",
+    "supervision_charges_in_text": "18,57,965/-",
+    "security_deposit_in_text": "14,24,440 /-",
+    "ground_rent_in_text": "1,62,400/-",
+    "total_amount_in_text": "1,58,31,241/-",
+    "total_amount_in_words": "रुपये एक कोटी अठ्ठावन्न लक्ष एकतीस हजार दोनशे एकेचाळीस मात्र",
+    "gst_number": "27AAALC0296J1Z4",
+    "pan_number": "AAALC0296J",
+    "service_no": "997212",
+    "gst_notification": "Notification No.03/2018 Central Tax (Rate) दि.25 जानेवारी 2018 अन्वये GST भरणा करण्याची जबाबदारी आपल्या संस्थेची राहील.",
+    "name": "(सोमनाथ पोटरे)",
+    "designation": "उप आयुक्त (परिमंडळ-१)"
+  },
+  "table_rows": [
+    {
+      "sr_no": "1",
+      "type/description": "नविन डांबरी पृष्ठभाग",
+      "quantity/pits": 8.0,
+      "length": 1.5,
+      "width": 1.5,
+      "area": 18.0,
+      "rate": 9600.0,
+      "amount": 172800.0
+    },
+    {
+      "sr_no": null,
+      "type/description": "डक्ट मधुन केबल",
+      "quantity/pits": 0.0,
+      "length": 0.0,
+      "width": 0.0,
+      "area": 0.0,
+      "rate": 0.0,
+      "amount": 0.0
+    },
+    {
+      "sr_no": null,
+      "type/description": "डक्ट ची संख्या 3",
+      "quantity/pits": null,
+      "length": null,
+      "width": 0.0,
+      "area": 812.0,
+      "rate": 0.0,
+      "amount": 2436.0
+    },
+    {
+      "sr_no": "1",
+      "type/description": "नविन डांबरी पृष्ठभाग (ओपन ट्रेंच पध्दत)",
+      "quantity/pits": 0.0,
+      "length": 0.0,
+      "width": 0.0,
+      "area": 627.0,
+      "rate": 9600.0,
+      "amount": 6019200.0
+    },
+    {
+      "sr_no": "A)",
+      "type/description": "पुर्न:स्थापना शुल्क",
+      "quantity/pits": null,
+      "length": null,
+      "width": null,
+      "area": null,
+      "rate": null,
+      "amount": 12386436
+    },
+    {
+      "sr_no": "B)",
+      "type/description": "A वर पर्यवेक्षण शुल्क १५ %",
+      "quantity/pits": null,
+      "length": null,
+      "width": null,
+      "area": null,
+      "rate": null,
+      "amount": 1857965
+    },
+    {
+      "sr_no": "C)",
+      "type/description": "A+B वर सुरक्षा अनामत रक्कम १०%",
+      "quantity/pits": null,
+      "length": null,
+      "width": null,
+      "area": null,
+      "rate": null,
+      "amount": 1424440
+    },
+    {
+      "sr_no": "D)",
+      "type/description": "रु 10/- प्रति वर्ष प्रति मीटर या प्रमाणे 20 वर्षासाठी एकरक्कमी रु200/- प्रती मीटर प्रमाणे भुईभाडे",
+      "quantity/pits": null,
+      "length": null,
+      "width": null,
+      "area": null,
+      "rate": null,
+      "amount": 162400
+    },
+    {
+      "sr_no": "1",
+      "type/description": "नविन डांबरी पृष्ठाभाग",
+      "quantity/pits": "8.00",
+      "length": "1.50",
+      "width": "1.50",
+      "area": "18.00",
+      "rate": "9600.00",
+      "amount": "172800.00"
+    },
+    {
+      "sr_no": null,
+      "type/description": "डक्ट मधुन केबल",
+      "quantity/pits": "0.00",
+      "length": "0.00",
+      "width": "0.00",
+      "area": "0.00",
+      "rate": "0.00",
+      "amount": "0.00"
+    },
+    {
+      "sr_no": null,
+      "type/description": "डक्ट ची संख्या 3",
+      "quantity/pits": null,
+      "length": null,
+      "width": null,
+      "area": "812.00",
+      "rate": "0.00",
+      "amount": "2436.00"
+    },
+    {
+      "sr_no": "1",
+      "type/description": "नविन डांबरी पृष्ठाभाग (ओपन ट्रेंच पध्दत)",
+      "quantity/pits": "0.00",
+      "length": "0.00",
+      "width": "0.00",
+      "area": "627.00",
+      "rate": "9600.00",
+      "amount": "6019200.00"
+    }
+  ],
+  "summary": {},
+  "extracted_measurements": {
+    "organization_marathi": "नवी मुंबई महानगरपालिका",
+    "organization": "नवी मुंबई महानगरपालिका",
+    "address_marathi": "पहिला माळा, बेलापूर भवन, सी.बी.डी., नवी मुंबई - ४०० ६१४.",
+    "address": "1ST. FLOOR, BELAPUR BHAVAN, C.B.D., NAVI MUMBAI - 400 614.",
+    "phone_numbers": [
+      "757 17 33",
+      "757 17 28",
+      "757 40 22"
+    ],
+    "fax_no": "757 37 85",
+    "document_number": "नमुंमपा/परि-1/टे.क्र.-10/1182/2025",
+    "dn_number": "10/1182/2025",
+    "date": "3/10/2025",
+    "recipient_name": "मे. भारती एअरटेल लि.",
+    "recipient_address": "सातवा मजला, इंटरफेस-7 न्यु लिंक रोड मलाड (प)",
+    "subject": "रस्ता खोदकाम शुल्क भरणा, करणेबाबत.",
+    "references": [
+      {
+        "id": 1,
+        "text": "आपल्या संस्थेचे पत्र दि.14/7/25 रोजीचे पत्र."
+      },
+      {
+        "id": 2,
+        "text": "कार्यकारी अभियंता, तुर्भे यांनी दि 23/9/25 रोजी सादर केलेले अंदाजपत्रक."
+      }
+    ],
+    "body_summary": "मे. भारती एअरटेल लिमिटेड यांना नेरुळ विभागात साऊथ सेंट्रल रोड ( HP Petrol pump जवळ) ते मनीष एक्सपोर्ट पर्यंत असे एकूण 812 मी. ओपन ट्रेचिंग पध्दतीने खोदकाम प्रस्तावित केलेले आहे. त्यानुसार कार्यकारी अभियंता यांनी डांबरी रस्त्याच्या खोदकामाचे अंदाजपत्रक सादर केलेले आहे.",
+    "work_type": "HDD/ ओपन ट्रेंच",
+    "project_length_m": 812,
+    "excavation_charges_table": [
+      {
+        "sr_no": 1,
+        "surface_type": "नविन डांबरी पृष्ठभाग",
+        "number_of_pits": 8.0,
+        "length_m": 1.5,
+        "width_m": 1.5,
+        "area_sqm": 18.0,
+        "rate_per_sqm": 9600.0,
+        "amount_rs": 172800.0
+      },
+      {
+        "sr_no": null,
+        "surface_type": "डक्ट मधुन केबल",
+        "number_of_pits": 0.0,
+        "length_m": 0.0,
+        "width_m": 0.0,
+        "area_sqm": 0.0,
+        "rate_per_sqm": 9600.0,
+        "amount_rs": 0.0
+      },
+      {
+        "sr_no": null,
+        "surface_type": "डक्ट ची संख्या 3",
+        "number_of_pits": 0.0,
+        "length_m": 0.0,
+        "width_m": 0.0,
+        "area_sqm": 812.0,
+        "rate_per_sqm": 0.0,
+        "amount_rs": 2436.0
+      },
+      {
+        "sr_no": 1,
+        "surface_type": "नविन डांबरी पृष्ठभाग (ओपन ट्रेंच पध्दत)",
+        "number_of_pits": 0.0,
+        "length_m": 0.0,
+        "width_m": 0.0,
+        "area_sqm": 627.0,
+        "rate_per_sqm": 9600.0,
+        "amount_rs": 6019200.0
+      }
+    ],
+    "total_area_sqm": 812.0,
+    "description": "रु 10/- प्रति वर्ष प्रति मीटर या प्रमाणे 20 वर्षासाठी एकरक्कमी रु200/- प्रती मीटर प्रमाणे भुईभाडे",
+    "amount": 12386436,
+    "supervision_charges": 1857965,
+    "security_deposit": 1424440,
+    "ground_rent": 162400,
+    "total_amount": 15831241.0,
+    "reinstatement_charges_in_text": "1,23,86,436/-",
+    "supervision_charges_in_text": "18,57,965/-",
+    "security_deposit_in_text": "14,24,440 /-",
+    "ground_rent_in_text": "1,62,400/-",
+    "total_amount_in_text": "1,58,31,241/-",
+    "total_amount_in_words": "रुपये एक कोटी अठ्ठावन्न लक्ष एकतीस हजार दोनशे एकेचाळीस मात्र",
+    "gst_number": "27AAALC0296J1Z4",
+    "pan_number": "AAALC0296J",
+    "service_no": "997212",
+    "gst_notification": "Notification No.03/2018 Central Tax (Rate) दि.25 जानेवारी 2018 अन्वये GST भरणा करण्याची जबाबदारी आपल्या संस्थेची राहील.",
+    "name": "(सोमनाथ पोटरे)",
+    "designation": "उप आयुक्त (परिमंडळ-१)"
+  },
+  "page_wise_measurements": [
+    {
+      "page_number": 1,
+      "marathi": {},
+      "english": {
+        "organization_marathi": "नवी मुंबई महानगरपालिका",
+        "organization": "नवी मुंबई महानगरपालिका",
+        "address_marathi": "पहिला माळा, बेलापूर भवन, सी.बी.डी., नवी मुंबई - ४०० ६१४.",
+        "address": "1ST. FLOOR, BELAPUR BHAVAN, C.B.D., NAVI MUMBAI - 400 614.",
+        "phone_numbers": [
+          "757 17 33",
+          "757 17 28",
+          "757 40 22"
+        ],
+        "fax_no": "757 37 85",
+        "document_number": "नमुंमपा/परि-1/टे.क्र.-10/1182/2025",
+        "dn_number": "10/1182/2025",
+        "date": "3/10/2025",
+        "recipient_name": "मे. भारती एअरटेल लि.",
+        "recipient_address": "सातवा मजला, इंटरफेस-7 न्यु लिंक रोड मलाड (प)",
+        "subject": "रस्ता खोदकाम शुल्क भरणा, करणेबाबत.",
+        "references": [
+          {
+            "id": 1,
+            "text": "आपल्या संस्थेचे पत्र दि.14/7/25 रोजीचे पत्र."
+          },
+          {
+            "id": 2,
+            "text": "कार्यकारी अभियंता, तुर्भे यांनी दि 23/9/25 रोजी सादर केलेले अंदाजपत्रक."
+          }
+        ],
+        "body_summary": "मे. भारती एअरटेल लिमिटेड यांना नेरुळ विभागात साऊथ सेंट्रल रोड ( HP Petrol pump जवळ) ते मनीष एक्सपोर्ट पर्यंत असे एकूण 812 मी. ओपन ट्रेचिंग पध्दतीने खोदकाम प्रस्तावित केलेले आहे. त्यानुसार कार्यकारी अभियंता यांनी डांबरी रस्त्याच्या खोदकामाचे अंदाजपत्रक सादर केलेले आहे.",
+        "work_type": "HDD/ ओपन ट्रेंच",
+        "project_length_m": 812,
+        "excavation_charges_table": [
+          {
+            "sr_no": 1,
+            "surface_type": "नविन डांबरी पृष्ठभाग",
+            "number_of_pits": 8.0,
+            "length_m": 1.5,
+            "width_m": 1.5,
+            "area_sqm": 18.0,
+            "rate_per_sqm": 9600.0,
+            "amount_rs": 172800.0
+          },
+          {
+            "sr_no": null,
+            "surface_type": "डक्ट मधुन केबल",
+            "number_of_pits": 0.0,
+            "length_m": 0.0,
+            "width_m": 0.0,
+            "area_sqm": 0.0,
+            "rate_per_sqm": 9600.0,
+            "amount_rs": 0.0
+          },
+          {
+            "sr_no": null,
+            "surface_type": "डक्ट ची संख्या 3",
+            "number_of_pits": 0.0,
+            "length_m": 0.0,
+            "width_m": 0.0,
+            "area_sqm": 812.0,
+            "rate_per_sqm": 0.0,
+            "amount_rs": 2436.0
+          },
+          {
+            "sr_no": 1,
+            "surface_type": "नविन डांबरी पृष्ठभाग (ओपन ट्रेंच पध्दत)",
+            "number_of_pits": 0.0,
+            "length_m": 0.0,
+            "width_m": 0.0,
+            "area_sqm": 627.0,
+            "rate_per_sqm": 9600.0,
+            "amount_rs": 6019200.0
+          }
+        ],
+        "total_area_sqm": 812.0,
+        "description": "रु 10/- प्रति वर्ष प्रति मीटर या प्रमाणे 20 वर्षासाठी एकरक्कमी रु200/- प्रती मीटर प्रमाणे भुईभाडे",
+        "amount": 12386436,
+        "supervision_charges": 1857965,
+        "security_deposit": 1424440,
+        "ground_rent": 162400,
+        "total_amount": 15831241.0,
+        "reinstatement_charges_in_text": "1,23,86,436/-",
+        "supervision_charges_in_text": "18,57,965/-",
+        "security_deposit_in_text": "14,24,440 /-",
+        "ground_rent_in_text": "1,62,400/-",
+        "total_amount_in_text": "1,58,31,241/-",
+        "total_amount_in_words": "रुपये एक कोटी अठ्ठावन्न लक्ष एकतीस हजार दोनशे एकेचाळीस मात्र",
+        "gst_number": "27AAALC0296J1Z4",
+        "pan_number": "AAALC0296J",
+        "service_no": "997212",
+        "gst_notification": "Notification No.03/2018 Central Tax (Rate) दि.25 जानेवारी 2018 अन्वये GST भरणा करण्याची जबाबदारी आपल्या संस्थेची राहील.",
+        "name": "(सोमनाथ पोटरे)",
+        "designation": "उप आयुक्त (परिमंडळ-१)"
+      },
+      "table_rows": [
+        {
+          "sr_no": "1",
+          "type/description": "नविन डांबरी पृष्ठभाग",
+          "quantity/pits": 8.0,
+          "length": 1.5,
+          "width": 1.5,
+          "area": 18.0,
+          "rate": 9600.0,
+          "amount": 172800.0
+        },
+        {
+          "sr_no": null,
+          "type/description": "डक्ट मधुन केबल",
+          "quantity/pits": 0.0,
+          "length": 0.0,
+          "width": 0.0,
+          "area": 0.0,
+          "rate": 0.0,
+          "amount": 0.0
+        },
+        {
+          "sr_no": null,
+          "type/description": "डक्ट ची संख्या 3",
+          "quantity/pits": null,
+          "length": null,
+          "width": 0.0,
+          "area": 812.0,
+          "rate": 0.0,
+          "amount": 2436.0
+        },
+        {
+          "sr_no": "1",
+          "type/description": "नविन डांबरी पृष्ठभाग (ओपन ट्रेंच पध्दत)",
+          "quantity/pits": 0.0,
+          "length": 0.0,
+          "width": 0.0,
+          "area": 627.0,
+          "rate": 9600.0,
+          "amount": 6019200.0
+        },
+        {
+          "sr_no": "A)",
+          "type/description": "पुर्न:स्थापना शुल्क",
+          "quantity/pits": null,
+          "length": null,
+          "width": null,
+          "area": null,
+          "rate": null,
+          "amount": 12386436
+        },
+        {
+          "sr_no": "B)",
+          "type/description": "A वर पर्यवेक्षण शुल्क १५ %",
+          "quantity/pits": null,
+          "length": null,
+          "width": null,
+          "area": null,
+          "rate": null,
+          "amount": 1857965
+        },
+        {
+          "sr_no": "C)",
+          "type/description": "A+B वर सुरक्षा अनामत रक्कम १०%",
+          "quantity/pits": null,
+          "length": null,
+          "width": null,
+          "area": null,
+          "rate": null,
+          "amount": 1424440
+        },
+        {
+          "sr_no": "D)",
+          "type/description": "रु 10/- प्रति वर्ष प्रति मीटर या प्रमाणे 20 वर्षासाठी एकरक्कमी रु200/- प्रती मीटर प्रमाणे भुईभाडे",
+          "quantity/pits": null,
+          "length": null,
+          "width": null,
+          "area": null,
+          "rate": null,
+          "amount": 162400
+        },
+        {
+          "sr_no": "1",
+          "type/description": "नविन डांबरी पृष्ठाभाग",
+          "quantity/pits": "8.00",
+          "length": "1.50",
+          "width": "1.50",
+          "area": "18.00",
+          "rate": "9600.00",
+          "amount": "172800.00"
+        },
+        {
+          "sr_no": null,
+          "type/description": "डक्ट मधुन केबल",
+          "quantity/pits": "0.00",
+          "length": "0.00",
+          "width": "0.00",
+          "area": "0.00",
+          "rate": "0.00",
+          "amount": "0.00"
+        },
+        {
+          "sr_no": null,
+          "type/description": "डक्ट ची संख्या 3",
+          "quantity/pits": null,
+          "length": null,
+          "width": null,
+          "area": "812.00",
+          "rate": "0.00",
+          "amount": "2436.00"
+        },
+        {
+          "sr_no": "1",
+          "type/description": "नविन डांबरी पृष्ठाभाग (ओपन ट्रेंच पध्दत)",
+          "quantity/pits": "0.00",
+          "length": "0.00",
+          "width": "0.00",
+          "area": "627.00",
+          "rate": "9600.00",
+          "amount": "6019200.00"
+        }
+      ],
+      "summary": {}
+    }
+  ]
+}

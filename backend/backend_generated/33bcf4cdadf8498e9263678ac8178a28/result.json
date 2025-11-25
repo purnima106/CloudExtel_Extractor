@@ -1,0 +1,35 @@
+{
+  "job_id": "33bcf4cdadf8498e9263678ac8178a28",
+  "filename": "NMMC_812.pdf",
+  "total_pages": 1,
+  "marathi_measurements": {},
+  "english_measurements": {},
+  "table_rows": [
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "summary": {},
+  "extracted_measurements": {},
+  "page_wise_measurements": [
+    {
+      "page_number": 1,
+      "marathi": {},
+      "english": {},
+      "table_rows": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "summary": {}
+    }
+  ]
+}

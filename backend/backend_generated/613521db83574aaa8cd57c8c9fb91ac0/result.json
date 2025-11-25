@@ -1,0 +1,431 @@
+{
+  "job_id": "613521db83574aaa8cd57c8c9fb91ac0",
+  "filename": "NMMC_812.pdf",
+  "total_pages": 1,
+  "marathi_measurements": {},
+  "english_measurements": {
+    "document_number": "नमुंमपा/परि-1/",
+    "date": "14/7/25",
+    "amount": "10",
+    "मवी_मुबई": 400,
+    "दूरध्वनी_क्र": 757,
+    "fax_no": 757,
+    "interface": 7,
+    "": 997212,
+    "परिमंडळ": 1
+  },
+  "table_rows": [
+    {
+      "sr_no": "1",
+      "type/description": "नविन डांबरी पृष्ठभाग",
+      "quantity/pits": 8.0,
+      "length": 1.5,
+      "width": 1.5,
+      "area": 18.0,
+      "rate": 9600.0,
+      "amount": 172800.0
+    },
+    {
+      "sr_no": null,
+      "type/description": "डक्ट मधुन केबल",
+      "quantity/pits": 0.0,
+      "length": 0.0,
+      "width": 0.0,
+      "area": 0.0,
+      "rate": 0.0,
+      "amount": 0.0
+    },
+    {
+      "sr_no": null,
+      "type/description": "डक्ट ची संख्या 3",
+      "quantity/pits": null,
+      "length": null,
+      "width": 0.0,
+      "area": 812.0,
+      "rate": 0.0,
+      "amount": 2436.0
+    },
+    {
+      "sr_no": "1",
+      "type/description": "नविन डांबरी पृष्ठभाग (ओपन ट्रेंच पध्दत)",
+      "quantity/pits": 0.0,
+      "length": 0.0,
+      "width": 0.0,
+      "area": 627.0,
+      "rate": 9600.0,
+      "amount": 6019200.0
+    },
+    {
+      "sr_no": "A)",
+      "type/description": "पुर्न:स्थापना शुल्क",
+      "quantity/pits": null,
+      "length": null,
+      "width": null,
+      "area": null,
+      "rate": null,
+      "amount": 12386436
+    },
+    {
+      "sr_no": "B)",
+      "type/description": "A वर पर्यवेक्षण शुल्क १५ %",
+      "quantity/pits": null,
+      "length": null,
+      "width": null,
+      "area": null,
+      "rate": null,
+      "amount": 1857965
+    },
+    {
+      "sr_no": "C)",
+      "type/description": "A+B वर सुरक्षा अनामत रक्कम १०%",
+      "quantity/pits": null,
+      "length": null,
+      "width": null,
+      "area": null,
+      "rate": null,
+      "amount": 1424440
+    },
+    {
+      "sr_no": "D)",
+      "type/description": "रु 10/- प्रति वर्ष प्रति मीटर या प्रमाणे 20 वर्षासाठी एकरक्कमी रु200/- प्रती मीटर प्रमाणे भुईभाडे",
+      "quantity/pits": null,
+      "length": null,
+      "width": null,
+      "area": null,
+      "rate": null,
+      "amount": 162400
+    },
+    {
+      "sr_no": null,
+      "type/description": "एकूण",
+      "quantity/pits": null,
+      "length": null,
+      "width": null,
+      "area": null,
+      "rate": null,
+      "amount": 15831241.0
+    },
+    {
+      "sr_no": "1",
+      "type/description": "New Asphalt Surface",
+      "quantity/pits": 8.0,
+      "length": 1.5,
+      "width": 1.5,
+      "area": 18.0,
+      "rate": 9600.0,
+      "amount": 172800.0
+    },
+    {
+      "sr_no": null,
+      "type/description": "Cable through Duct",
+      "quantity/pits": 0.0,
+      "length": 0.0,
+      "width": 0.0,
+      "area": 0.0,
+      "rate": 0.0,
+      "amount": 0.0
+    },
+    {
+      "sr_no": null,
+      "type/description": "Number of Ducts 3",
+      "quantity/pits": null,
+      "length": 0.0,
+      "width": null,
+      "area": 812.0,
+      "rate": 0.0,
+      "amount": 2436.0
+    },
+    {
+      "sr_no": "1",
+      "type/description": "New Asphalt Surface (Open Trench method)",
+      "quantity/pits": 0.0,
+      "length": 0.0,
+      "width": 0.0,
+      "area": 627.0,
+      "rate": 9600.0,
+      "amount": 6019200.0
+    },
+    {
+      "sr_no": null,
+      "type/description": "Total Sq.M.",
+      "quantity/pits": null,
+      "length": null,
+      "width": null,
+      "area": 812.0,
+      "rate": null,
+      "amount": null
+    },
+    {
+      "sr_no": "A)",
+      "type/description": "Reinstatement Charges",
+      "quantity/pits": null,
+      "length": null,
+      "width": null,
+      "area": null,
+      "rate": null,
+      "amount": 12386436
+    },
+    {
+      "sr_no": "B)",
+      "type/description": "Supervision Charges on A @ 15%",
+      "quantity/pits": null,
+      "length": null,
+      "width": null,
+      "area": null,
+      "rate": null,
+      "amount": 1857965
+    },
+    {
+      "sr_no": "C)",
+      "type/description": "Security Deposit on A+B @ 10%",
+      "quantity/pits": null,
+      "length": null,
+      "width": null,
+      "area": null,
+      "rate": null,
+      "amount": 1424440
+    },
+    {
+      "sr_no": "D)",
+      "type/description": "Ground rent @ Rs 200/- per meter for 20 years",
+      "quantity/pits": null,
+      "length": null,
+      "width": null,
+      "area": null,
+      "rate": null,
+      "amount": 162400
+    },
+    {
+      "sr_no": null,
+      "type/description": "Total",
+      "quantity/pits": null,
+      "length": null,
+      "width": null,
+      "area": null,
+      "rate": null,
+      "amount": 15831241.0
+    }
+  ],
+  "summary": {},
+  "extracted_measurements": {
+    "document_number": "नमुंमपा/परि-1/",
+    "date": "14/7/25",
+    "amount": "10",
+    "मवी_मुबई": 400,
+    "दूरध्वनी_क्र": 757,
+    "fax_no": 757,
+    "interface": 7,
+    "": 997212,
+    "परिमंडळ": 1
+  },
+  "page_wise_measurements": [
+    {
+      "page_number": 1,
+      "marathi": {},
+      "english": {
+        "document_number": "नमुंमपा/परि-1/",
+        "date": "14/7/25",
+        "amount": "10",
+        "मवी_मुबई": 400,
+        "दूरध्वनी_क्र": 757,
+        "fax_no": 757,
+        "interface": 7,
+        "": 997212,
+        "परिमंडळ": 1
+      },
+      "table_rows": [
+        {
+          "sr_no": "1",
+          "type/description": "नविन डांबरी पृष्ठभाग",
+          "quantity/pits": 8.0,
+          "length": 1.5,
+          "width": 1.5,
+          "area": 18.0,
+          "rate": 9600.0,
+          "amount": 172800.0
+        },
+        {
+          "sr_no": null,
+          "type/description": "डक्ट मधुन केबल",
+          "quantity/pits": 0.0,
+          "length": 0.0,
+          "width": 0.0,
+          "area": 0.0,
+          "rate": 0.0,
+          "amount": 0.0
+        },
+        {
+          "sr_no": null,
+          "type/description": "डक्ट ची संख्या 3",
+          "quantity/pits": null,
+          "length": null,
+          "width": 0.0,
+          "area": 812.0,
+          "rate": 0.0,
+          "amount": 2436.0
+        },
+        {
+          "sr_no": "1",
+          "type/description": "नविन डांबरी पृष्ठभाग (ओपन ट्रेंच पध्दत)",
+          "quantity/pits": 0.0,
+          "length": 0.0,
+          "width": 0.0,
+          "area": 627.0,
+          "rate": 9600.0,
+          "amount": 6019200.0
+        },
+        {
+          "sr_no": "A)",
+          "type/description": "पुर्न:स्थापना शुल्क",
+          "quantity/pits": null,
+          "length": null,
+          "width": null,
+          "area": null,
+          "rate": null,
+          "amount": 12386436
+        },
+        {
+          "sr_no": "B)",
+          "type/description": "A वर पर्यवेक्षण शुल्क १५ %",
+          "quantity/pits": null,
+          "length": null,
+          "width": null,
+          "area": null,
+          "rate": null,
+          "amount": 1857965
+        },
+        {
+          "sr_no": "C)",
+          "type/description": "A+B वर सुरक्षा अनामत रक्कम १०%",
+          "quantity/pits": null,
+          "length": null,
+          "width": null,
+          "area": null,
+          "rate": null,
+          "amount": 1424440
+        },
+        {
+          "sr_no": "D)",
+          "type/description": "रु 10/- प्रति वर्ष प्रति मीटर या प्रमाणे 20 वर्षासाठी एकरक्कमी रु200/- प्रती मीटर प्रमाणे भुईभाडे",
+          "quantity/pits": null,
+          "length": null,
+          "width": null,
+          "area": null,
+          "rate": null,
+          "amount": 162400
+        },
+        {
+          "sr_no": null,
+          "type/description": "एकूण",
+          "quantity/pits": null,
+          "length": null,
+          "width": null,
+          "area": null,
+          "rate": null,
+          "amount": 15831241.0
+        },
+        {
+          "sr_no": "1",
+          "type/description": "New Asphalt Surface",
+          "quantity/pits": 8.0,
+          "length": 1.5,
+          "width": 1.5,
+          "area": 18.0,
+          "rate": 9600.0,
+          "amount": 172800.0
+        },
+        {
+          "sr_no": null,
+          "type/description": "Cable through Duct",
+          "quantity/pits": 0.0,
+          "length": 0.0,
+          "width": 0.0,
+          "area": 0.0,
+          "rate": 0.0,
+          "amount": 0.0
+        },
+        {
+          "sr_no": null,
+          "type/description": "Number of Ducts 3",
+          "quantity/pits": null,
+          "length": 0.0,
+          "width": null,
+          "area": 812.0,
+          "rate": 0.0,
+          "amount": 2436.0
+        },
+        {
+          "sr_no": "1",
+          "type/description": "New Asphalt Surface (Open Trench method)",
+          "quantity/pits": 0.0,
+          "length": 0.0,
+          "width": 0.0,
+          "area": 627.0,
+          "rate": 9600.0,
+          "amount": 6019200.0
+        },
+        {
+          "sr_no": null,
+          "type/description": "Total Sq.M.",
+          "quantity/pits": null,
+          "length": null,
+          "width": null,
+          "area": 812.0,
+          "rate": null,
+          "amount": null
+        },
+        {
+          "sr_no": "A)",
+          "type/description": "Reinstatement Charges",
+          "quantity/pits": null,
+          "length": null,
+          "width": null,
+          "area": null,
+          "rate": null,
+          "amount": 12386436
+        },
+        {
+          "sr_no": "B)",
+          "type/description": "Supervision Charges on A @ 15%",
+          "quantity/pits": null,
+          "length": null,
+          "width": null,
+          "area": null,
+          "rate": null,
+          "amount": 1857965
+        },
+        {
+          "sr_no": "C)",
+          "type/description": "Security Deposit on A+B @ 10%",
+          "quantity/pits": null,
+          "length": null,
+          "width": null,
+          "area": null,
+          "rate": null,
+          "amount": 1424440
+        },
+        {
+          "sr_no": "D)",
+          "type/description": "Ground rent @ Rs 200/- per meter for 20 years",
+          "quantity/pits": null,
+          "length": null,
+          "width": null,
+          "area": null,
+          "rate": null,
+          "amount": 162400
+        },
+        {
+          "sr_no": null,
+          "type/description": "Total",
+          "quantity/pits": null,
+          "length": null,
+          "width": null,
+          "area": null,
+          "rate": null,
+          "amount": 15831241.0
+        }
+      ],
+      "summary": {}
+    }
+  ]
+}

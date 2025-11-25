@@ -1,0 +1,52 @@
+{
+  "job_id": "fd44eca038b84211ab5a5f5a02bf4121",
+  "filename": "NMMC_812.pdf",
+  "total_pages": 1,
+  "marathi_measurements": {},
+  "english_measurements": {
+    "x_aS": 11.0,
+    "": 111.0,
+    "960000": 601.0,
+    "श": 3.0,
+    "total": 812.0,
+    "A": 123.0,
+    "B": 15.0,
+    "C": 80.0,
+    "9": 10.0,
+    "dn_date": 14.0
+  },
+  "table_rows": [],
+  "summary": {},
+  "extracted_measurements": {
+    "x_aS": 11.0,
+    "": 111.0,
+    "960000": 601.0,
+    "श": 3.0,
+    "total": 812.0,
+    "A": 123.0,
+    "B": 15.0,
+    "C": 80.0,
+    "9": 10.0,
+    "dn_date": 14.0
+  },
+  "page_wise_measurements": [
+    {
+      "page_number": 1,
+      "marathi": {},
+      "english": {
+        "x_aS": 11.0,
+        "": 111.0,
+        "960000": 601.0,
+        "श": 3.0,
+        "total": 812.0,
+        "A": 123.0,
+        "B": 15.0,
+        "C": 80.0,
+        "9": 10.0,
+        "dn_date": 14.0
+      },
+      "table_rows": [],
+      "summary": {}
+    }
+  ]
+}

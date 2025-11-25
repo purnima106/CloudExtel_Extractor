@@ -1,0 +1,8 @@
+Requirement already satisfied: pdfplumber in c:\cloudextelextractor\backend\.venv\lib\site-packages (0.11.8)
+Requirement already satisfied: pdfminer.six==20251107 in c:\cloudextelextractor\backend\.venv\lib\site-packages (from pdfplumber) (20251107)
+Requirement already satisfied: Pillow>=9.1 in c:\cloudextelextractor\backend\.venv\lib\site-packages (from pdfplumber) (12.0.0)
+Requirement already satisfied: pypdfium2>=4.18.0 in c:\cloudextelextractor\backend\.venv\lib\site-packages (from pdfplumber) (5.0.0)
+Requirement already satisfied: charset-normalizer>=2.0.0 in c:\cloudextelextractor\backend\.venv\lib\site-packages (from pdfminer.six==20251107->pdfplumber) (3.4.4)
+Requirement already satisfied: cryptography>=36.0.0 in c:\cloudextelextractor\backend\.venv\lib\site-packages (from pdfminer.six==20251107->pdfplumber) (46.0.3)
+Requirement already satisfied: cffi>=2.0.0 in c:\cloudextelextractor\backend\.venv\lib\site-packages (from cryptography>=36.0.0->pdfminer.six==20251107->pdfplumber) (2.0.0)
+Requirement already satisfied: pycparser in c:\cloudextelextractor\backend\.venv\lib\site-packages (from cffi>=2.0.0->cryptography>=36.0.0->pdfminer.six==20251107->pdfplumber) (2.23)

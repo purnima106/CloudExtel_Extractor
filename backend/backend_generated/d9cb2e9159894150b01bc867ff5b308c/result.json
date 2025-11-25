@@ -1,0 +1,583 @@
+{
+  "job_id": "d9cb2e9159894150b01bc867ff5b308c",
+  "filename": "NMMC_812.pdf",
+  "total_pages": 1,
+  "marathi_measurements": {},
+  "english_measurements": {
+    "organization": "Navi Mumbai Municipal Corporation",
+    "address": "1st Floor, Belapur Bhavan, C.B.D., Navi Mumbai - 400 614",
+    "phone_numbers": [
+      "757 17 33",
+      "757 17 28",
+      "757 40 22"
+    ],
+    "fax_no": "757 37 85",
+    "document_number": "नमुंमपा/परि-1/टे.क्र.-10/1182/2025",
+    "dn_number": "10/1182/2025",
+    "date": "3/10/2025",
+    "recipient_name": "M/s. Bharti Airtel Ltd.",
+    "recipient_address": "7th Floor, Interface-7, New Link Road, Malad (W)",
+    "subject": "Regarding payment of road excavation charges.",
+    "reference_1": "Your organization's letter dated 14/7/25.",
+    "reference_2": "Estimate submitted by the Executive Engineer on 23/9/25.",
+    "body": "Regarding the above subject, it is informed that M/s. Bharti Airtel Limited has proposed a total of 812 meters of open trenching in Nerul division from South Central Road (near HP Petrol pump) to Manish Export. In this regard, the Hon. Executive Engineer has submitted an estimate for excavation of the asphalt road. As per the government decision and the estimate submitted by the Executive Engineer, the charges have been shown. Therefore, you are requested to deposit the following amount in the Municipal Corporation for the excavation work.",
+    "excavation_method": "HDD/Open Trench",
+    "table_items": [
+      {
+        "sr_no": 1,
+        "surface_type": "New asphalt surface",
+        "quantity": 8.0,
+        "length_m": 1.5,
+        "width_m": 1.5,
+        "area_sqm": 18.0,
+        "rate_per_sqm": 9600.0,
+        "amount": 172800.0
+      },
+      {
+        "surface_type": "Cable from duct",
+        "quantity": 0.0,
+        "length_m": 0.0,
+        "width_m": 0.0,
+        "area_sqm": 0.0,
+        "rate_per_sqm": 0.0,
+        "amount": 0.0
+      },
+      {
+        "surface_type": "Number of ducts 3",
+        "quantity": 0.0,
+        "length_m": 0.0,
+        "area_sqm": 812.0,
+        "rate_per_sqm": 0.0,
+        "amount": 2436.0
+      },
+      {
+        "sr_no": 1,
+        "surface_type": "New asphalt surface (Open trench method)",
+        "quantity": 0.0,
+        "length_m": 0.0,
+        "width_m": 0.0,
+        "area_sqm": 627.0,
+        "rate_per_sqm": 9600.0,
+        "amount": 6019200.0
+      }
+    ],
+    "subtotal_amount": 12386436,
+    "description": "Ground rent for 20 years at the rate of Rs. 200/- per meter as a one-time payment",
+    "value": 162400,
+    "total_amount": 15831241.0,
+    "summary_text": "As per the above, the total amount for road excavation reinstatement charges is Rs. 1,23,86,436/-, supervision charges are Rs. 18,57,965/-, and security deposit is Rs. 14,24,440/-, as well as ground rent of Rs. 1,62,400/-. Thus, the total amount of Rs. 1,58,31,241/- (in words: Rupees One Crore Fifty-Eight Lakh Thirty-One Thousand Two Hundred Forty-One Only) should be deposited in the accounts department of Navi Mumbai Municipal Corporation by preparing a demand draft (D.D.). After that, your organization will be given permission for road excavation. A contract agreement should be submitted for the excavation work. Please note this. Further action on the above amount will be taken. Also, please note that GST is to be paid as per Notification No. 03/2018 Central Tax (Rate) dated 25th January 2018. Your organization will be responsible for this.",
+    "gst_number": "27AAALC0296J1Z4",
+    "pan_number": "AAALC0296J",
+    "service_no": "997212",
+    "name": "(Somnath Potere)",
+    "title": "Deputy Commissioner (Zone-1)",
+    "length_m": 1.5,
+    "width_m": 1.5,
+    "area_sqm": 18.0,
+    "supervision_charges": 1857965,
+    "ground_rent": 162400,
+    "amount": "10"
+  },
+  "table_rows": [
+    {
+      "sr_no": 1,
+      "type/description": "नविन डांबरी पृष्ठभाग",
+      "quantity/pits": 8.0,
+      "length": 1.5,
+      "width": 1.5,
+      "area": 18.0,
+      "rate": 9600.0,
+      "amount": 172800.0
+    },
+    {
+      "sr_no": null,
+      "type/description": "डक्ट मधुन केबल",
+      "quantity/pits": 0.0,
+      "length": 0.0,
+      "width": 0.0,
+      "area": 0.0,
+      "rate": 0.0,
+      "amount": 0.0
+    },
+    {
+      "sr_no": null,
+      "type/description": "डक्ट ची संख्या 3",
+      "quantity/pits": null,
+      "length": null,
+      "width": 0.0,
+      "area": 812.0,
+      "rate": 0.0,
+      "amount": 2436.0
+    },
+    {
+      "sr_no": 1,
+      "type/description": "नविन डांबरी पृष्ठभाग (ओपन ट्रेंच पध्दत)",
+      "quantity/pits": 0.0,
+      "length": 0.0,
+      "width": 0.0,
+      "area": 627.0,
+      "rate": 9600.0,
+      "amount": 6019200.0
+    },
+    {
+      "sr_no": "A",
+      "type/description": "पुर्न:स्थापना शुल्क",
+      "quantity/pits": null,
+      "length": null,
+      "width": null,
+      "area": null,
+      "rate": null,
+      "amount": 12386436
+    },
+    {
+      "sr_no": "B",
+      "type/description": "A वर पर्यवेक्षण शुल्क १५ %",
+      "quantity/pits": null,
+      "length": null,
+      "width": null,
+      "area": null,
+      "rate": null,
+      "amount": 1857965
+    },
+    {
+      "sr_no": "C",
+      "type/description": "A+B वर सुरक्षा अनामत रक्कम १०%",
+      "quantity/pits": null,
+      "length": null,
+      "width": null,
+      "area": null,
+      "rate": null,
+      "amount": 1424440
+    },
+    {
+      "sr_no": "D",
+      "type/description": "रु १०/- प्रति वर्ष प्रति मीटर या प्रमाणे 20 वर्षांसाठी एकरक्कमी रु200/- प्रती मीटर प्रमाणे भुईभाडे",
+      "quantity/pits": null,
+      "length": null,
+      "width": null,
+      "area": null,
+      "rate": null,
+      "amount": 162400
+    },
+    {
+      "sr_no": null,
+      "type/description": "एकूण",
+      "quantity/pits": null,
+      "length": null,
+      "width": null,
+      "area": null,
+      "rate": null,
+      "amount": 15831241.0
+    },
+    {
+      "sr_no": "1",
+      "type/description": "नविन डांबरी पृष्ठभाग",
+      "quantity/pits": 8.0,
+      "length": 1.5,
+      "width": 1.5,
+      "area": 18.0,
+      "rate": 9600.0,
+      "amount": 172800.0
+    },
+    {
+      "sr_no": null,
+      "type/description": "डक्ट मधुन केबल",
+      "quantity/pits": 0.0,
+      "length": 0.0,
+      "width": 0.0,
+      "area": 0.0,
+      "rate": 0.0,
+      "amount": 0.0
+    },
+    {
+      "sr_no": null,
+      "type/description": "डक्ट ची संख्या 3",
+      "quantity/pits": 0.0,
+      "length": 0.0,
+      "width": null,
+      "area": 812.0,
+      "rate": null,
+      "amount": 2436.0
+    },
+    {
+      "sr_no": "1",
+      "type/description": "(ओपन ट्रेंच पद्धत)",
+      "quantity/pits": 0.0,
+      "length": 0.0,
+      "width": 0.0,
+      "area": 627.0,
+      "rate": 9600.0,
+      "amount": 6019200.0
+    },
+    {
+      "sr_no": "A)",
+      "type/description": "पुनःस्थापना शुल्क",
+      "quantity/pits": null,
+      "length": null,
+      "width": null,
+      "area": null,
+      "rate": null,
+      "amount": 12386436
+    },
+    {
+      "sr_no": "B)",
+      "type/description": "A वर पर्यवेक्षण शुल्क १५ %",
+      "quantity/pits": null,
+      "length": null,
+      "width": null,
+      "area": null,
+      "rate": null,
+      "amount": 1857965
+    },
+    {
+      "sr_no": "C)",
+      "type/description": "A+B वर सुरक्षा अनामत रक्कम १०%",
+      "quantity/pits": null,
+      "length": null,
+      "width": null,
+      "area": null,
+      "rate": null,
+      "amount": 1424440
+    },
+    {
+      "sr_no": "D)",
+      "type/description": "रु 10/- प्रति वर्ष प्रति मीटर या प्रमाणे 20 वर्षासाठी एकरक्मी रु200/- प्रती मीटर प्रमाणे भुईभाडे",
+      "quantity/pits": null,
+      "length": null,
+      "width": null,
+      "area": null,
+      "rate": null,
+      "amount": 162400
+    }
+  ],
+  "summary": {},
+  "extracted_measurements": {
+    "organization": "Navi Mumbai Municipal Corporation",
+    "address": "1st Floor, Belapur Bhavan, C.B.D., Navi Mumbai - 400 614",
+    "phone_numbers": [
+      "757 17 33",
+      "757 17 28",
+      "757 40 22"
+    ],
+    "fax_no": "757 37 85",
+    "document_number": "नमुंमपा/परि-1/टे.क्र.-10/1182/2025",
+    "dn_number": "10/1182/2025",
+    "date": "3/10/2025",
+    "recipient_name": "M/s. Bharti Airtel Ltd.",
+    "recipient_address": "7th Floor, Interface-7, New Link Road, Malad (W)",
+    "subject": "Regarding payment of road excavation charges.",
+    "reference_1": "Your organization's letter dated 14/7/25.",
+    "reference_2": "Estimate submitted by the Executive Engineer on 23/9/25.",
+    "body": "Regarding the above subject, it is informed that M/s. Bharti Airtel Limited has proposed a total of 812 meters of open trenching in Nerul division from South Central Road (near HP Petrol pump) to Manish Export. In this regard, the Hon. Executive Engineer has submitted an estimate for excavation of the asphalt road. As per the government decision and the estimate submitted by the Executive Engineer, the charges have been shown. Therefore, you are requested to deposit the following amount in the Municipal Corporation for the excavation work.",
+    "excavation_method": "HDD/Open Trench",
+    "table_items": [
+      {
+        "sr_no": 1,
+        "surface_type": "New asphalt surface",
+        "quantity": 8.0,
+        "length_m": 1.5,
+        "width_m": 1.5,
+        "area_sqm": 18.0,
+        "rate_per_sqm": 9600.0,
+        "amount": 172800.0
+      },
+      {
+        "surface_type": "Cable from duct",
+        "quantity": 0.0,
+        "length_m": 0.0,
+        "width_m": 0.0,
+        "area_sqm": 0.0,
+        "rate_per_sqm": 0.0,
+        "amount": 0.0
+      },
+      {
+        "surface_type": "Number of ducts 3",
+        "quantity": 0.0,
+        "length_m": 0.0,
+        "area_sqm": 812.0,
+        "rate_per_sqm": 0.0,
+        "amount": 2436.0
+      },
+      {
+        "sr_no": 1,
+        "surface_type": "New asphalt surface (Open trench method)",
+        "quantity": 0.0,
+        "length_m": 0.0,
+        "width_m": 0.0,
+        "area_sqm": 627.0,
+        "rate_per_sqm": 9600.0,
+        "amount": 6019200.0
+      }
+    ],
+    "subtotal_amount": 12386436,
+    "description": "Ground rent for 20 years at the rate of Rs. 200/- per meter as a one-time payment",
+    "value": 162400,
+    "total_amount": 15831241.0,
+    "summary_text": "As per the above, the total amount for road excavation reinstatement charges is Rs. 1,23,86,436/-, supervision charges are Rs. 18,57,965/-, and security deposit is Rs. 14,24,440/-, as well as ground rent of Rs. 1,62,400/-. Thus, the total amount of Rs. 1,58,31,241/- (in words: Rupees One Crore Fifty-Eight Lakh Thirty-One Thousand Two Hundred Forty-One Only) should be deposited in the accounts department of Navi Mumbai Municipal Corporation by preparing a demand draft (D.D.). After that, your organization will be given permission for road excavation. A contract agreement should be submitted for the excavation work. Please note this. Further action on the above amount will be taken. Also, please note that GST is to be paid as per Notification No. 03/2018 Central Tax (Rate) dated 25th January 2018. Your organization will be responsible for this.",
+    "gst_number": "27AAALC0296J1Z4",
+    "pan_number": "AAALC0296J",
+    "service_no": "997212",
+    "name": "(Somnath Potere)",
+    "title": "Deputy Commissioner (Zone-1)",
+    "length_m": 1.5,
+    "width_m": 1.5,
+    "area_sqm": 18.0,
+    "supervision_charges": 1857965,
+    "ground_rent": 162400,
+    "amount": "10"
+  },
+  "page_wise_measurements": [
+    {
+      "page_number": 1,
+      "marathi": {},
+      "english": {
+        "organization": "Navi Mumbai Municipal Corporation",
+        "address": "1st Floor, Belapur Bhavan, C.B.D., Navi Mumbai - 400 614",
+        "phone_numbers": [
+          "757 17 33",
+          "757 17 28",
+          "757 40 22"
+        ],
+        "fax_no": "757 37 85",
+        "document_number": "नमुंमपा/परि-1/टे.क्र.-10/1182/2025",
+        "dn_number": "10/1182/2025",
+        "date": "3/10/2025",
+        "recipient_name": "M/s. Bharti Airtel Ltd.",
+        "recipient_address": "7th Floor, Interface-7, New Link Road, Malad (W)",
+        "subject": "Regarding payment of road excavation charges.",
+        "reference_1": "Your organization's letter dated 14/7/25.",
+        "reference_2": "Estimate submitted by the Executive Engineer on 23/9/25.",
+        "body": "Regarding the above subject, it is informed that M/s. Bharti Airtel Limited has proposed a total of 812 meters of open trenching in Nerul division from South Central Road (near HP Petrol pump) to Manish Export. In this regard, the Hon. Executive Engineer has submitted an estimate for excavation of the asphalt road. As per the government decision and the estimate submitted by the Executive Engineer, the charges have been shown. Therefore, you are requested to deposit the following amount in the Municipal Corporation for the excavation work.",
+        "excavation_method": "HDD/Open Trench",
+        "table_items": [
+          {
+            "sr_no": 1,
+            "surface_type": "New asphalt surface",
+            "quantity": 8.0,
+            "length_m": 1.5,
+            "width_m": 1.5,
+            "area_sqm": 18.0,
+            "rate_per_sqm": 9600.0,
+            "amount": 172800.0
+          },
+          {
+            "surface_type": "Cable from duct",
+            "quantity": 0.0,
+            "length_m": 0.0,
+            "width_m": 0.0,
+            "area_sqm": 0.0,
+            "rate_per_sqm": 0.0,
+            "amount": 0.0
+          },
+          {
+            "surface_type": "Number of ducts 3",
+            "quantity": 0.0,
+            "length_m": 0.0,
+            "area_sqm": 812.0,
+            "rate_per_sqm": 0.0,
+            "amount": 2436.0
+          },
+          {
+            "sr_no": 1,
+            "surface_type": "New asphalt surface (Open trench method)",
+            "quantity": 0.0,
+            "length_m": 0.0,
+            "width_m": 0.0,
+            "area_sqm": 627.0,
+            "rate_per_sqm": 9600.0,
+            "amount": 6019200.0
+          }
+        ],
+        "subtotal_amount": 12386436,
+        "description": "Ground rent for 20 years at the rate of Rs. 200/- per meter as a one-time payment",
+        "value": 162400,
+        "total_amount": 15831241.0,
+        "summary_text": "As per the above, the total amount for road excavation reinstatement charges is Rs. 1,23,86,436/-, supervision charges are Rs. 18,57,965/-, and security deposit is Rs. 14,24,440/-, as well as ground rent of Rs. 1,62,400/-. Thus, the total amount of Rs. 1,58,31,241/- (in words: Rupees One Crore Fifty-Eight Lakh Thirty-One Thousand Two Hundred Forty-One Only) should be deposited in the accounts department of Navi Mumbai Municipal Corporation by preparing a demand draft (D.D.). After that, your organization will be given permission for road excavation. A contract agreement should be submitted for the excavation work. Please note this. Further action on the above amount will be taken. Also, please note that GST is to be paid as per Notification No. 03/2018 Central Tax (Rate) dated 25th January 2018. Your organization will be responsible for this.",
+        "gst_number": "27AAALC0296J1Z4",
+        "pan_number": "AAALC0296J",
+        "service_no": "997212",
+        "name": "(Somnath Potere)",
+        "title": "Deputy Commissioner (Zone-1)",
+        "length_m": 1.5,
+        "width_m": 1.5,
+        "area_sqm": 18.0,
+        "supervision_charges": 1857965,
+        "ground_rent": 162400,
+        "amount": "10"
+      },
+      "table_rows": [
+        {
+          "sr_no": 1,
+          "type/description": "नविन डांबरी पृष्ठभाग",
+          "quantity/pits": 8.0,
+          "length": 1.5,
+          "width": 1.5,
+          "area": 18.0,
+          "rate": 9600.0,
+          "amount": 172800.0
+        },
+        {
+          "sr_no": null,
+          "type/description": "डक्ट मधुन केबल",
+          "quantity/pits": 0.0,
+          "length": 0.0,
+          "width": 0.0,
+          "area": 0.0,
+          "rate": 0.0,
+          "amount": 0.0
+        },
+        {
+          "sr_no": null,
+          "type/description": "डक्ट ची संख्या 3",
+          "quantity/pits": null,
+          "length": null,
+          "width": 0.0,
+          "area": 812.0,
+          "rate": 0.0,
+          "amount": 2436.0
+        },
+        {
+          "sr_no": 1,
+          "type/description": "नविन डांबरी पृष्ठभाग (ओपन ट्रेंच पध्दत)",
+          "quantity/pits": 0.0,
+          "length": 0.0,
+          "width": 0.0,
+          "area": 627.0,
+          "rate": 9600.0,
+          "amount": 6019200.0
+        },
+        {
+          "sr_no": "A",
+          "type/description": "पुर्न:स्थापना शुल्क",
+          "quantity/pits": null,
+          "length": null,
+          "width": null,
+          "area": null,
+          "rate": null,
+          "amount": 12386436
+        },
+        {
+          "sr_no": "B",
+          "type/description": "A वर पर्यवेक्षण शुल्क १५ %",
+          "quantity/pits": null,
+          "length": null,
+          "width": null,
+          "area": null,
+          "rate": null,
+          "amount": 1857965
+        },
+        {
+          "sr_no": "C",
+          "type/description": "A+B वर सुरक्षा अनामत रक्कम १०%",
+          "quantity/pits": null,
+          "length": null,
+          "width": null,
+          "area": null,
+          "rate": null,
+          "amount": 1424440
+        },
+        {
+          "sr_no": "D",
+          "type/description": "रु १०/- प्रति वर्ष प्रति मीटर या प्रमाणे 20 वर्षांसाठी एकरक्कमी रु200/- प्रती मीटर प्रमाणे भुईभाडे",
+          "quantity/pits": null,
+          "length": null,
+          "width": null,
+          "area": null,
+          "rate": null,
+          "amount": 162400
+        },
+        {
+          "sr_no": null,
+          "type/description": "एकूण",
+          "quantity/pits": null,
+          "length": null,
+          "width": null,
+          "area": null,
+          "rate": null,
+          "amount": 15831241.0
+        },
+        {
+          "sr_no": "1",
+          "type/description": "नविन डांबरी पृष्ठभाग",
+          "quantity/pits": 8.0,
+          "length": 1.5,
+          "width": 1.5,
+          "area": 18.0,
+          "rate": 9600.0,
+          "amount": 172800.0
+        },
+        {
+          "sr_no": null,
+          "type/description": "डक्ट मधुन केबल",
+          "quantity/pits": 0.0,
+          "length": 0.0,
+          "width": 0.0,
+          "area": 0.0,
+          "rate": 0.0,
+          "amount": 0.0
+        },
+        {
+          "sr_no": null,
+          "type/description": "डक्ट ची संख्या 3",
+          "quantity/pits": 0.0,
+          "length": 0.0,
+          "width": null,
+          "area": 812.0,
+          "rate": null,
+          "amount": 2436.0
+        },
+        {
+          "sr_no": "1",
+          "type/description": "(ओपन ट्रेंच पद्धत)",
+          "quantity/pits": 0.0,
+          "length": 0.0,
+          "width": 0.0,
+          "area": 627.0,
+          "rate": 9600.0,
+          "amount": 6019200.0
+        },
+        {
+          "sr_no": "A)",
+          "type/description": "पुनःस्थापना शुल्क",
+          "quantity/pits": null,
+          "length": null,
+          "width": null,
+          "area": null,
+          "rate": null,
+          "amount": 12386436
+        },
+        {
+          "sr_no": "B)",
+          "type/description": "A वर पर्यवेक्षण शुल्क १५ %",
+          "quantity/pits": null,
+          "length": null,
+          "width": null,
+          "area": null,
+          "rate": null,
+          "amount": 1857965
+        },
+        {
+          "sr_no": "C)",
+          "type/description": "A+B वर सुरक्षा अनामत रक्कम १०%",
+          "quantity/pits": null,
+          "length": null,
+          "width": null,
+          "area": null,
+          "rate": null,
+          "amount": 1424440
+        },
+        {
+          "sr_no": "D)",
+          "type/description": "रु 10/- प्रति वर्ष प्रति मीटर या प्रमाणे 20 वर्षासाठी एकरक्मी रु200/- प्रती मीटर प्रमाणे भुईभाडे",
+          "quantity/pits": null,
+          "length": null,
+          "width": null,
+          "area": null,
+          "rate": null,
+          "amount": 162400
+        }
+      ],
+      "summary": {}
+    }
+  ]
+}

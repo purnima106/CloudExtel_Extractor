@@ -1,0 +1,41 @@
+{
+  "job_id": "5c439649a5b5418dbdcc1c56c2478840",
+  "filename": "NMMC_812.pdf",
+  "total_pages": 1,
+  "marathi_measurements": {},
+  "english_measurements": {
+    "total_linear_meters": 812.0
+  },
+  "table_rows": [
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "summary": {},
+  "extracted_measurements": {
+    "total_linear_meters": 812.0
+  },
+  "page_wise_measurements": [
+    {
+      "page_number": 1,
+      "marathi": {},
+      "english": {
+        "total_linear_meters": 812.0
+      },
+      "table_rows": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "summary": {}
+    }
+  ]
+}

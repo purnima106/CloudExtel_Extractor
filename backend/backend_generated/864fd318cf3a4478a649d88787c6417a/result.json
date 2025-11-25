@@ -1,0 +1,96 @@
+{
+  "job_id": "864fd318cf3a4478a649d88787c6417a",
+  "filename": "NMMC_812.pdf",
+  "total_pages": 1,
+  "marathi_measurements": {},
+  "english_measurements": {
+    "length_m": 812,
+    "area_sq_m": 645,
+    "rate": 9600,
+    "no_of_pits": 8,
+    "supervision_charges": 1857965,
+    "ground_rent": 162400,
+    "amount": 12386436,
+    "total": 15831241
+  },
+  "table_rows": [
+    {
+      "surface": "नविन डांबरी पृष्ठभाग",
+      "length": 1.5,
+      "width": 1.5,
+      "area_sq_m": 18,
+      "rate": 9600,
+      "amount": 172800
+    },
+    {
+      "surface": "डक्ट ची संख्या 3",
+      "length": 0,
+      "width": 0,
+      "area_sq_m": 812,
+      "rate": 0,
+      "amount": 2436
+    },
+    {
+      "surface": "नविन डांबरी पृष्ठभाग (ओपन ट्रेंच पध्दत)",
+      "length": 0,
+      "width": 0,
+      "area_sq_m": 627,
+      "rate": 9600,
+      "amount": 6019200
+    }
+  ],
+  "summary": {},
+  "extracted_measurements": {
+    "length_m": 812,
+    "area_sq_m": 645,
+    "rate": 9600,
+    "no_of_pits": 8,
+    "supervision_charges": 1857965,
+    "ground_rent": 162400,
+    "amount": 12386436,
+    "total": 15831241
+  },
+  "page_wise_measurements": [
+    {
+      "page_number": 1,
+      "marathi": {},
+      "english": {
+        "length_m": 812,
+        "area_sq_m": 645,
+        "rate": 9600,
+        "no_of_pits": 8,
+        "supervision_charges": 1857965,
+        "ground_rent": 162400,
+        "amount": 12386436,
+        "total": 15831241
+      },
+      "table_rows": [
+        {
+          "surface": "नविन डांबरी पृष्ठभाग",
+          "length": 1.5,
+          "width": 1.5,
+          "area_sq_m": 18,
+          "rate": 9600,
+          "amount": 172800
+        },
+        {
+          "surface": "डक्ट ची संख्या 3",
+          "length": 0,
+          "width": 0,
+          "area_sq_m": 812,
+          "rate": 0,
+          "amount": 2436
+        },
+        {
+          "surface": "नविन डांबरी पृष्ठभाग (ओपन ट्रेंच पध्दत)",
+          "length": 0,
+          "width": 0,
+          "area_sq_m": 627,
+          "rate": 9600,
+          "amount": 6019200
+        }
+      ],
+      "summary": {}
+    }
+  ]
+}

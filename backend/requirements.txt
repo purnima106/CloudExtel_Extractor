@@ -1,0 +1,18 @@
+﻿fastapi
+uvicorn[standard]
+python-multipart
+pdf2image
+pytesseract
+Pillow
+opencv-python-headless
+numpy
+pandas
+openpyxl
+reportlab
+httpx
+langdetect
+pdfminer.six
+deep-translator
+# Pin google-generativeai to a stable range known to work with GenerativeModel(...).generate_content(...)
+google-generativeai>=0.8.0,<1.0.0
+python-dotenv
